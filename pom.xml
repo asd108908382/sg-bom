@@ -168,7 +168,7 @@
                             <path>
                                 <groupId>org.projectlombok</groupId>
                                 <artifactId>lombok</artifactId>
-                                <version>1.18.24</version>
+                                <version>1.18.30</version>
                             </path>
                             <!-- MapStruct 和 Lombok 注解绑定处理器 -->
                             <path>
